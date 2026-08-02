@@ -1,0 +1,9 @@
+title: Practice - Meditation timer
+description: Privacy Policy and support for Practice - Meditation timer
+url: https://medve.github.io
+baseurl: /practice-pages
+lang: en
+markdown: kramdown
+permalink: pretty
+exclude:
+  - README.md
